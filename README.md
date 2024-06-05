@@ -9,7 +9,7 @@ An unofficial Docker Image for [Lanify](https://lanify.ai/).
     - Replace `<your_email>` and `<your_password>` with your actual Lanify account credentials:
 
     ```bash
-    docker run -d -e USER=<your_email> -e PASS=<your_password> -e API=<your_api_key> mrcolorrain/lanify
+    docker run -d -e USER=<your_email> -e PASS=<your_password> -e API=<your_api_key> carbon2029/lanify
     ```
 
 ## Some random questions 
