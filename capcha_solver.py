@@ -1,4 +1,3 @@
-# pip install requests
 import requests
 import time
 
@@ -34,5 +33,4 @@ def capsolver(api_key):
         if status == "failed" or resp.get("errorId"):
             print("Solve failed! response:", res.text)
             return
-
 

@@ -1,6 +1,7 @@
 # Lanify Docker Image
 
-An unofficial Docker Image for [Lanify](https://lanify.ai/).
+
+Unofficial [Lanify](https://lanify.ai/) Docker image for easy deployment and management. With multiarch support (x86_64, arm64,...) and auto-updates.
 
 ## Quick Start 🚀
   Go to [2captcha](https://2captcha.com/?from=15765395) or [CapSolver](https://dashboard.capsolver.com/passport/register?inviteCode=0gmGzMUUpLGb) and register to get your API key.
