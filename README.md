@@ -6,13 +6,19 @@
 
 [**🚀 See setup instructions**](#getting-started) · [📚 Documentation](#documentation) · [🫶 Support](#support)
 
-**Leave a star ⭐ if you like this project 🙂 Thank you!**
+<p align="center">
+  <strong>Leave a star ⭐ if you like this project 🙂 Thank you!</strong>
+</p>
 
-## Overview
+<a name="overview"></a>
+
+## 🔍 Overview
 
 Unofficial [Lanify](https://lanify.ai/) Docker image for easy deployment and management. With multiarch support (x86_64, arm64,...) and auto-updates.
 
-## Getting started
+<a name="getting-started"></a>
+
+## 🚥 Getting started
 
 <a name="quick-start-"></a>
 
@@ -27,7 +33,9 @@ Unofficial [Lanify](https://lanify.ai/) Docker image for easy deployment and man
     docker run -d -e USER=<your_email> -e PASS=<your_password> -e API=<your_api_key> carbon2029/lanify
     ```
 
-## Documentation
+<a name="documentation"></a>
+
+## 📚 Documentation
 
 <a name="some-random-questions"></a>
 
@@ -39,13 +47,17 @@ Is it lightweight?
 Why use 2capcha and CapSolver?
 - Well 2Capcha can be free(if you earn credits by solving capchas and use that to pay for api) while CopSolver is cheap if you plan to spend.
 
-## Contributing
+<a name="contributing"></a>
+
+## 🤝 Contributing
 
 Ideas, bug reports, documentation fixes and focused changes are welcome through this repository's collaboration channels.
 
 Please include enough context to reproduce a problem or review a change.
 
-## Support
+<a name="support"></a>
+
+## 🫶 Support
 
 **🫶 Support the project**
 
@@ -55,7 +67,9 @@ Your contributions are vital in helping to sustain the development of open-sourc
 
 Thank you for helping me keep building and sharing! 🙏 See the [supporter directory](https://github.com/MRColorR/MRColorR/blob/main/SUPPORTERS.md).
 
-## License
+<a name="license"></a>
+
+## 📄 License
 
 This program is free software distributed under the terms of the GNU General Public License (GPL-3.0). You can redistribute it and/or modify it under the terms of the license. However, there is no warranty provided, and you use it at your own risk.
 
